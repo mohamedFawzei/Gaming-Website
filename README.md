@@ -1,16 +1,40 @@
-# React + Vite
+Gaming Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎮 Gaming Website
 
-Currently, two official plugins are available:
+A modern, high-performance landing page dedicated to gaming, designed with a strong focus on user experience, responsiveness, and technical optimization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
+This project is a responsive user interface built to provide a seamless browsing experience for gamers. It prioritizes load speed, visual appeal, and clean code architecture following global web standards.
 
-## React Compiler
+## 🔗 Live Demo
+Check out the live version here: **[Gaming Website Live Demo](https://gaming-website-plum-kappa.vercel.app/)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚡ Performance & Optimization
+One of the key highlights of this project is its optimization. I focused heavily on performance best practices, achieving outstanding scores on **Google Lighthouse**:
 
-## Expanding the ESLint configuration
+![Lighthouse Score](path-to-your-image/image_1d2d46.png)
+*(Note: Upload your image to the repo and replace the path above, or remove this line if you prefer text only)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Metric | Score |
+| :--- | :---: |
+| 🟢 **Performance** | **98%** |
+| 🟢 **Best Practices** | **100%** |
+| 🟠 **SEO** | **82%** |
+| 🟠 **Accessibility** | **80%** |
+
+> *These results were achieved by optimizing asset delivery, minimizing unused JavaScript, and adhering to modern web performance standards.*
+
+## 🏆 Key Features
+- **Modern UI/UX:** A visually engaging dark-themed design tailored for the gaming community.
+- **Fully Responsive:** Flawless experience across all devices (Desktop, Tablet, and Mobile).
+- **High Performance:** Optimized for fast loading times and smooth interactions.
+- **Clean Code:** Well-structured and maintainable codebase.
+
+## 🛠️ Tech Stack
+* **Framework/Library:** [e.g., React.js / Next.js / HTML5 & CSS3]
+* **Styling:** [e.g., Tailwind CSS / SCSS / CSS Modules]
+* **Deployment:** Vercel
+
+---
+⭐️ **If you like this project, please give it a star!**
