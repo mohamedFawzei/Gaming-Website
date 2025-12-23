@@ -1,5 +1,4 @@
 import React from "react";
-// import style from "./Button.module.css"; // تأكد أن المسار صحيح إذا كنت تستخدمه
 
 export default function Button({
   title,
