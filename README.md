@@ -13,8 +13,9 @@ Check out the live version here: **[Gaming Website Live Demo](https://gaming-web
 ## ⚡ Performance & Optimization
 One of the key highlights of this project is its optimization. I focused heavily on performance best practices, achieving outstanding scores on **Google Lighthouse**:
 
-![Lighthouse Score](path-to-your-image/image_1d2d46.png)
-*(Note: Upload your image to the repo and replace the path above, or remove this line if you prefer text only)*
+![Lighthouse Score](<img width="1882" height="339" alt="image" src="https://github.com/user-attachments/assets/904c3772-5237-4283-8dd5-f58afd7c1cd7" />
+)
+
 
 | Metric | Score |
 | :--- | :---: |
