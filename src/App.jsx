@@ -3,6 +3,11 @@ import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
 import Navbar from "./components/Navbar/Navbar";
 import Features from "./components/Features/Features";
+import Story from "./components/Story/Story";
+import Footer from "./components/Footer/Footer";
+
+
+
 
 export default function App() {
   return (
@@ -11,6 +16,8 @@ export default function App() {
       <Hero />
       <About />
       <Features />
+      <Story />
+      <Footer />
     </main>
   );
 }
