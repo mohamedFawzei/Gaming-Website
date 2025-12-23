@@ -1,9 +1,11 @@
 import React from "react";
+import Hero from "./components/Hero/Hero";
 
 export default function App() {
   return (
-    <main>
-      <h2 className="font-robert-regular text-yellow-300">Weclome to Awwwards</h2>
+    <main className="relative min-h-screen w-screen overflow-x-hidden">
+      <Hero />
+    
     </main>
   );
 }
