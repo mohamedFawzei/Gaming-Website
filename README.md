@@ -33,8 +33,8 @@ One of the key highlights of this project is its optimization. I focused heavily
 - **Clean Code:** Well-structured and maintainable codebase.
 
 ## 🛠️ Tech Stack
-* **Framework/Library:** [e.g., React.js / Next.js / HTML5 & CSS3]
-* **Styling:** [e.g., Tailwind CSS / SCSS / CSS Modules]
+* **Framework/Library:** [React.js / HTML5 & CSS3]
+* **Styling:** [Tailwind CSS / CSS Modules]
 * **Deployment:** Vercel
 
 ---
